@@ -2,4 +2,4 @@
 
 Repo: `/home/mayo/Development/SledgeHammer`
 
-Each run: inspect; ONE safe increment; `npm run typecheck` and `npm test`; comment paths/files/commands/pass-fail; no DAISY; no sudo/SSH/Tailscale/firewall/secrets.
+Each run: if current increment has no Host pass/fail, STATUS only. Else ONE safe increment; fmt:check + typecheck + test; comment files/commands/pass-fail. Blocked → manager issue. No DAISY. No Level 3. No push.

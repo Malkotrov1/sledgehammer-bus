@@ -1,3 +1,3 @@
 # Role 3 — Gatekeeper
 
-Read #1 and #2. Post telemetry + preview + APPROVE/REJECT. Host applies only after APPROVED. No silent push. No Level 3.
+Quiet if nothing new. Level 1 APPROVE (Manager policy). Level 3 ESCALATE-HUMAN on manager issue. No silent push. Do not notify the human except via Manager digest / Level 3.
