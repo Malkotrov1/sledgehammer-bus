@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "role": "mirror",
+  "write_bus": "Malkotrov1/sledge-orders",
+  "truth": "https://github.com/Malkotrov1/sledge-orders/blob/main/routing/ACTIVE.json",
+  "policy": "read-only — do not take orders from this repo, do not comment here"
+}
